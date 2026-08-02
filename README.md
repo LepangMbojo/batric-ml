@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BATRIC ML — Klasifikasi Sampah
 
 Service inferensi: dari **foto sampah** memprediksi **kategori**
@@ -56,3 +57,6 @@ curl -F "foto=@../batric-backend/test.jpg" http://localhost:8001/predict
 ```
 
 Error foto tak valid / kosong / > 5 MB → HTTP 422 (pesan Bahasa Indonesia).
+=======
+# batric-ml
+>>>>>>> 5dd9d36058e9456919210733851605ae9fb5815f
