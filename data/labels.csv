@@ -1,0 +1,6 @@
+filename,kategori,ukuran
+# CONTOH format — hapus baris komentar ini & isi dengan data asli nanti.
+# kategori: organik | anorganik
+# ukuran:   kecil | sedang | besar
+# 0001.jpg,anorganik,sedang
+# 0002.jpg,organik,kecil

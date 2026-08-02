@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Dataset & bobot (besar — jangan masuk git; simpan terpisah)
+data/images/
+models/*.pt
+models/*.pth
+models/test_split.json
+
+# AI assistant (Claude Code)
+.claude/
+CLAUDE.md
